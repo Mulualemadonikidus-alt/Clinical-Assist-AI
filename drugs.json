@@ -1,6 +1,6 @@
 {
-  "manual_title": "Emergency Cardiovascular Resuscitation Pharmacology: A Technical Reference Manual",
-  "source_citation": "",
+  "manual_title": "Clinical Assist Tool",
+  "source_citation": "[cite: 1]",
   "sections": [
     {
       "section_number": 1,
@@ -525,20 +525,21 @@
         "For specific multi-center heart failure outcome registries and tracking protocols, see details referenced in the data framework under THESUS-HF II protocols.",
         "For automated clinical calculators managing weight-based dose optimization software systems, consult code frameworks labeled under the reference files \"watermarked_img_15605539625956534618.png\", \"watermarked_img_13413688051120390643.png\", and \"watermarked_img_8095023707865201722.png\". Ensure concentration variables map directly to the calculated outputs detailed in Sections 3, 5, and 6 above."
       ]
-    }
-  ]
-}
-{
-  "section_number": 8,
-  "section_name": "Infusion Rate Calculation Reference",
-  "medications": [
+    },
     {
-      "name": "General Infusion Formula",
-      "calculated_dosing_and_administration_guide": "Use the formula: Rate (mL/hr) = [Dose (mcg/kg/min) * Weight (kg) * 60] / Concentration (mcg/mL).",
-      "available_stock_dosage_forms": "Standardized concentrations: Norepinephrine (16 mcg/mL), Dopamine (1600 mcg/mL), Dobutamine (1000 mcg/mL).",
-      "critical_safety_alerts": [
-        "Always verify drug concentration and pump settings before starting infusion.",
-        "When using gravity drip sets (if pumps are unavailable), use the formula: Drops/min = [Volume (mL) * Drop Factor (gtts/mL)] / Time (min). Standard macro-drip factor is 10 or 15 gtts/mL."
+      "section_number": 8,
+      "section_name": "Infusion Rate Calculation Reference",
+      "medications": [
+        {
+          "name": "General Infusion Formula",
+          "calculated_dosing_and_administration_guide": "Use the formula: Rate (mL/hr) = [Dose (mcg/kg/min) * Weight (kg) * 60] / Concentration (mcg/mL).",
+          "available_stock_dosage_forms": "Standardized concentrations: Norepinephrine (16 mcg/mL), Dopamine (1600 mcg/mL), Dobutamine (1000 mcg/mL).",
+          "critical_safety_alerts": [
+            "Always verify drug concentration and pump settings before starting infusion.",
+            "When using gravity drip sets (if pumps are unavailable), use the formula: Drops/min = [Volume (mL) * Drop Factor (gtts/mL)] / Time (min). Standard macro-drip factor is 10 or 15 gtts/mL."
+          ]
+        }
       ]
     }
   ]
+}
