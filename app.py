@@ -78,6 +78,20 @@ def main():
                         st.markdown(f"**Indications:** {', '.join(indications)}")
                     
                 with col2:
+                    # --- DYNAMIC CALCULATOR ---
+    st.sidebar.markdown("---")
+    st.sidebar.header("🧮 Rapid Dose Calculator")
+    
+    # Input fields for the calculation variables
+    calc_dose = st.sidebar.number_input("Target Dose (mcg/kg/min)", value=0.1)
+    calc_weight = st.sidebar.number_input("Patient Weight (kg)", value=70.0)
+    calc_conc = st.sidebar.number_input("Concentration (mcg/mL)", value=16.0)
+    
+    # Button to trigger the calculation
+    if st.sidebar.button("Calculate Rate"):
+        # Mathematical formula derived from infusion standards [cite: 1, 16]
+        rate = (calc_dose * calc_weight * 60) / calc_conc
+        st.sidebar.success(f"Infusion Rate: **{rate:.1f} mL/hr**")
                     st.markdown("### Preparation & Concentrations")
                     st.markdown(f"**Stock Form:** {med.get('available_stock_dosage_forms', 'N/A')}")
                     st.markdown(f"**Prep Method:** {med.get('preparation_methods_and_preferred_solvents', 'N/A')}")
