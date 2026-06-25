@@ -528,3 +528,17 @@
     }
   ]
 }
+{
+  "section_number": 8,
+  "section_name": "Infusion Rate Calculation Reference",
+  "medications": [
+    {
+      "name": "General Infusion Formula",
+      "calculated_dosing_and_administration_guide": "Use the formula: Rate (mL/hr) = [Dose (mcg/kg/min) * Weight (kg) * 60] / Concentration (mcg/mL).",
+      "available_stock_dosage_forms": "Standardized concentrations: Norepinephrine (16 mcg/mL), Dopamine (1600 mcg/mL), Dobutamine (1000 mcg/mL).",
+      "critical_safety_alerts": [
+        "Always verify drug concentration and pump settings before starting infusion.",
+        "When using gravity drip sets (if pumps are unavailable), use the formula: Drops/min = [Volume (mL) * Drop Factor (gtts/mL)] / Time (min). Standard macro-drip factor is 10 or 15 gtts/mL."
+      ]
+    }
+  ]
