@@ -1,6 +1,6 @@
 {
   "manual_title": "Emergency Cardiovascular Resuscitation Pharmacology: A Technical Reference Manual",
-  "source_citation": "[cite: 1]",
+  "source_citation": "",
   "sections": [
     {
       "section_number": 1,
@@ -9,90 +9,90 @@
         {
           "name": "Epinephrine",
           "clinical_indications": [
-            "VF/pVT[cite: 1]",
-            "Asystole/PEA[cite: 1]"
+            "VF/pVT",
+            "Asystole/PEA"
           ],
-          "available_stock_dosage_forms": "1 mg / 10 mL (1:10,000) Pre-filled syringe[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for cardiac arrest; administer undiluted as a direct rapid IV/IO push.[cite: 1]",
-          "administration_ready_concentration": "0.1 mg/mL (100 mcg/mL)[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Initial Bolus: 1 mg IV/IO over 1–2 seconds. Repeat Interval: Every 3–5 minutes during cardiac arrest. Flush: Follow with a 20 mL NS flush and elevate extremity.[cite: 1]",
+          "available_stock_dosage_forms": "1 mg / 10 mL (1:10,000) Pre-filled syringe",
+          "preparation_methods_and_preferred_solvents": "None required for cardiac arrest; administer undiluted as a direct rapid IV/IO push.",
+          "administration_ready_concentration": "0.1 mg/mL (100 mcg/mL)",
+          "calculated_dosing_and_administration_guide": "Initial Bolus: 1 mg IV/IO over 1–2 seconds. Repeat Interval: Every 3–5 minutes during cardiac arrest. Flush: Follow with a 20 mL NS flush and elevate extremity.",
           "critical_safety_alerts": [
-            "High-dose regimens not routinely recommended.[cite: 1]",
-            "Extravasation via peripheral line can cause severe localized tissue necrosis; switch to central line post-ROSC if continuous infusion is initiated.[cite: 1]"
+            "High-dose regimens not routinely recommended.",
+            "Extravasation via peripheral line can cause severe localized tissue necrosis; switch to central line post-ROSC if continuous infusion is initiated."
           ]
         },
         {
           "name": "Amiodarone",
           "clinical_indications": [
-            "Refractory VF/pVT[cite: 1]"
+            "Refractory VF/pVT"
           ],
-          "available_stock_dosage_forms": "150 mg / 3 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "First Bolus: Dilute 300 mg (2 vials) into 20–30 mL of D5W or NS. Second Bolus: Dilute 150 mg (1 vial) into 20–30 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "10 mg/mL to 15 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "First Bolus: 300 mg IV/IO rapid push. Second Bolus: 150 mg IV/IO rapid push. Repeat Interval: Once after 3–5 minutes if VF/pVT persists.[cite: 1]",
+          "available_stock_dosage_forms": "150 mg / 3 mL Vial",
+          "preparation_methods_and_preferred_solvents": "First Bolus: Dilute 300 mg (2 vials) into 20–30 mL of D5W or NS. Second Bolus: Dilute 150 mg (1 vial) into 20–30 mL of D5W or NS.",
+          "administration_ready_concentration": "10 mg/mL to 15 mg/mL",
+          "calculated_dosing_and_administration_guide": "First Bolus: 300 mg IV/IO rapid push. Second Bolus: 150 mg IV/IO rapid push. Repeat Interval: Once after 3–5 minutes if VF/pVT persists.",
           "critical_safety_alerts": [
-            "Adsorption: Adheres to PVC containers; use non-PVC or glass if preparing post-ROSC maintenance infusions.[cite: 1]",
-            "Excipient alert: Contains polysorbate 80, which can induce profound hypotension post-ROSC.[cite: 1]"
+            "Adsorption: Adheres to PVC containers; use non-PVC or glass if preparing post-ROSC maintenance infusions.",
+            "Excipient alert: Contains polysorbate 80, which can induce profound hypotension post-ROSC."
           ]
         },
         {
           "name": "Lidocaine",
           "clinical_indications": [
-            "Refractory VF/pVT[cite: 1]"
+            "Refractory VF/pVT"
           ],
-          "available_stock_dosage_forms": "100 mg / 5 mL (2%) Pre-filled syringe[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for cardiac arrest; administer undiluted as a direct rapid IV/IO push.[cite: 1]",
-          "administration_ready_concentration": "20 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Initial Bolus: 1.0–1.5 mg/kg IV/IO rapid push. Repeat Interval: 0.5–0.75 mg/kg every 5–10 minutes. Max Dose: 3 mg/kg total.[cite: 1]",
+          "available_stock_dosage_forms": "100 mg / 5 mL (2%) Pre-filled syringe",
+          "preparation_methods_and_preferred_solvents": "None required for cardiac arrest; administer undiluted as a direct rapid IV/IO push.",
+          "administration_ready_concentration": "20 mg/mL",
+          "calculated_dosing_and_administration_guide": "Initial Bolus: 1.0–1.5 mg/kg IV/IO rapid push. Repeat Interval: 0.5–0.75 mg/kg every 5–10 minutes. Max Dose: 3 mg/kg total.",
           "critical_safety_alerts": [
-            "Monitor for signs of Lidocaine toxicity (neurotoxicity: slurred speech, altered mental status, muscle twitching, seizures) post-ROSC.[cite: 1]",
-            "Reduce maintenance dosing in severe hepatic dysfunction or heart failure.[cite: 1]"
+            "Monitor for signs of Lidocaine toxicity (neurotoxicity: slurred speech, altered mental status, muscle twitching, seizures) post-ROSC.",
+            "Reduce maintenance dosing in severe hepatic dysfunction or heart failure."
           ]
         },
         {
           "name": "Magnesium Sulfate",
           "clinical_indications": [
-            "Torsades de Pointes[cite: 1]"
+            "Torsades de Pointes"
           ],
-          "available_stock_dosage_forms": "1 g / 2 mL (50%) Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 2 g (4 mL of stock solution) into 10–20 mL of D5W or NS for rapid push in cardiac arrest.[cite: 1]",
-          "administration_ready_concentration": "100 mg/mL to 200 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Bolus Dose: 2 g IV/IO administered over 1–2 minutes in pulseless Torsades de Pointes.[cite: 1]",
+          "available_stock_dosage_forms": "1 g / 2 mL (50%) Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 2 g (4 mL of stock solution) into 10–20 mL of D5W or NS for rapid push in cardiac arrest.",
+          "administration_ready_concentration": "100 mg/mL to 200 mg/mL",
+          "calculated_dosing_and_administration_guide": "Bolus Dose: 2 g IV/IO administered over 1–2 minutes in pulseless Torsades de Pointes.",
           "critical_safety_alerts": [
-            "Rapid administration in patients with a pulse causes profound vasodilation and hypotension.[cite: 1]",
-            "Monitor for neuromuscular blockade, loss of deep tendon reflexes, and respiratory depression post-ROSC.[cite: 1]"
+            "Rapid administration in patients with a pulse causes profound vasodilation and hypotension.",
+            "Monitor for neuromuscular blockade, loss of deep tendon reflexes, and respiratory depression post-ROSC."
           ]
         },
         {
           "name": "Calcium Chloride",
           "clinical_indications": [
-            "Hyperkalemia[cite: 1]",
-            "Hypocalcemia[cite: 1]",
-            "CCB Toxicity[cite: 1]"
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "CCB Toxicity"
           ],
-          "available_stock_dosage_forms": "1 g / 10 mL (10%) Pre-filled syringe[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for emergency resuscitation; administer undiluted as a slow IV/IO push over 2–5 minutes.[cite: 1]",
-          "administration_ready_concentration": "100 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Bolus Dose: 500 mg to 1000 mg (5–10 mL) IV/IO over 2–5 minutes.[cite: 1]",
+          "available_stock_dosage_forms": "1 g / 10 mL (10%) Pre-filled syringe",
+          "preparation_methods_and_preferred_solvents": "None required for emergency resuscitation; administer undiluted as a slow IV/IO push over 2–5 minutes.",
+          "administration_ready_concentration": "100 mg/mL",
+          "calculated_dosing_and_administration_guide": "Bolus Dose: 500 mg to 1000 mg (5–10 mL) IV/IO over 2–5 minutes.",
           "critical_safety_alerts": [
-            "Incompatibility: Extensively precipitates if mixed with Sodium Bicarbonate; thoroughly flush lines between administrations.[cite: 1]",
-            "Tissue Sclerosant: Severe tissue necrosis and sloughing if extravasated; central venous line preferred.[cite: 1]"
+            "Incompatibility: Extensively precipitates if mixed with Sodium Bicarbonate; thoroughly flush lines between administrations.",
+            "Tissue Sclerosant: Severe tissue necrosis and sloughing if extravasated; central venous line preferred."
           ]
         },
         {
           "name": "Sodium Bicarbonate",
           "clinical_indications": [
-            "Metabolic Acidosis[cite: 1]",
-            "Hyperkalemia[cite: 1]",
-            "TCA Overdose[cite: 1]"
+            "Metabolic Acidosis",
+            "Hyperkalemia",
+            "TCA Overdose"
           ],
-          "available_stock_dosage_forms": "50 mEq / 50 mL (8.4%) Pre-filled syringe[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for acute emergency resuscitation; administer undiluted as a slow IV/IO push over 3–5 minutes.[cite: 1]",
-          "administration_ready_concentration": "1 mEq/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Bolus Dose: 1 mEq/kg IV/IO slow push. Repeat Interval: 0.5 mEq/kg every 10 minutes based on arterial blood gas (ABG) and $pH$ tracking.[cite: 1]",
+          "available_stock_dosage_forms": "50 mEq / 50 mL (8.4%) Pre-filled syringe",
+          "preparation_methods_and_preferred_solvents": "None required for acute emergency resuscitation; administer undiluted as a slow IV/IO push over 3–5 minutes.",
+          "administration_ready_concentration": "1 mEq/mL",
+          "calculated_dosing_and_administration_guide": "Bolus Dose: 1 mEq/kg IV/IO slow push. Repeat Interval: 0.5 mEq/kg every 10 minutes based on arterial blood gas (ABG) and pH tracking.",
           "critical_safety_alerts": [
-            "Chemical Precipitation: Forms insoluble calcium carbonate precipitates when combined with Calcium Chloride or Calcium Gluconate.[cite: 1]",
-            "Causes intracellular acidosis if ventilation is inadequate (shifts $CO_2$ balance).[cite: 1]"
+            "Chemical Precipitation: Forms insoluble calcium carbonate precipitates when combined with Calcium Chloride or Calcium Gluconate.",
+            "Causes intracellular acidosis if ventilation is inadequate (shifts CO2 balance)."
           ]
         }
       ]
@@ -104,87 +104,87 @@
         {
           "name": "Adenosine",
           "clinical_indications": [
-            "PSVT / Regular Narrow-QRS Monomorphic SVT[cite: 1]"
+            "PSVT / Regular Narrow-QRS Monomorphic SVT"
           ],
-          "available_stock_dosage_forms": "6 mg / 2 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; draw up undiluted. Prepare standard two-syringe rapid flush technique or a single syringe mixed with saline.[cite: 1]",
-          "administration_ready_concentration": "3 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "First Dose: 6 mg IV rapid bolus over 1–2 seconds via proximal port, immediately followed by 20 mL NS flush. Second Dose: 12 mg IV rapid bolus after 1–2 minutes if conversion fails.[cite: 1]",
+          "available_stock_dosage_forms": "6 mg / 2 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required; draw up undiluted. Prepare standard two-syringe rapid flush technique or a single syringe mixed with saline.",
+          "administration_ready_concentration": "3 mg/mL",
+          "calculated_dosing_and_administration_guide": "First Dose: 6 mg IV rapid bolus over 1–2 seconds via proximal port, immediately followed by 20 mL NS flush. Second Dose: 12 mg IV rapid bolus after 1–2 minutes if conversion fails.",
           "critical_safety_alerts": [
-            "Transient Asystole: Warn patients of imminent, brief, distressing chest pain, dyspnea, or flushing.[cite: 1]",
-            "Dosing Alterations: Reduce initial dose to 3 mg if administered via a central line, or if patient is taking dipridamole/carbamazepine.[cite: 1]"
+            "Transient Asystole: Warn patients of imminent, brief, distressing chest pain, dyspnea, or flushing.",
+            "Dosing Alterations: Reduce initial dose to 3 mg if administered via a central line, or if patient is taking dipridamole/carbamazepine."
           ]
         },
         {
           "name": "Amiodarone Infusion",
           "clinical_indications": [
-            "Stable Wide-Complex VT[cite: 1]",
-            "Rate Control in AF[cite: 1]"
+            "Stable Wide-Complex VT",
+            "Rate Control in AF"
           ],
-          "available_stock_dosage_forms": "150 mg / 3 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Loading Dose: Dilute 150 mg (3 mL) into 100 mL of D5W. Maintenance Infusion: Dilute 900 mg (18 mL) into 500 mL of D5W.[cite: 1]",
-          "administration_ready_concentration": "Load: 1.5 mg/mL; Maintenance: 1.8 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Loading Dose: 150 mg IV administered over 10 minutes (15 mg/min). Maintenance: 1 mg/min for the first 6 hours (33.3 mL/hr), then decelerate to 0.5 mg/min for the next 18 hours (16.6 mL/hr).[cite: 1]",
+          "available_stock_dosage_forms": "150 mg / 3 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Loading Dose: Dilute 150 mg (3 mL) into 100 mL of D5W. Maintenance Infusion: Dilute 900 mg (18 mL) into 500 mL of D5W.",
+          "administration_ready_concentration": "Load: 1.5 mg/mL; Maintenance: 1.8 mg/mL",
+          "calculated_dosing_and_administration_guide": "Loading Dose: 150 mg IV administered over 10 minutes (15 mg/min). Maintenance: 1 mg/min for the first 6 hours (33.3 mL/hr), then decelerate to 0.5 mg/min for the next 18 hours (16.6 mL/hr).",
           "critical_safety_alerts": [
-            "Hypotension/Bradycardia: Rapid loading infusions provoke severe arterial hypotension. Slow or pause infusion if BP drops.[cite: 1]",
-            "Solvent Restriction: Incompatible with Normal Saline for long-term infusions; must use D5W and non-PVC sets.[cite: 1]"
+            "Hypotension/Bradycardia: Rapid loading infusions provoke severe arterial hypotension. Slow or pause infusion if BP drops.",
+            "Solvent Restriction: Incompatible with Normal Saline for long-term infusions; must use D5W and non-PVC sets."
           ]
         },
         {
           "name": "Procainamide",
           "clinical_indications": [
-            "Stable Pre-excited AF[cite: 1]",
-            "Monomorphic VT[cite: 1]"
+            "Stable Pre-excited AF",
+            "Monomorphic VT"
           ],
-          "available_stock_dosage_forms": "1000 mg / 10 mL Vial (100 mg/mL)[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 1000 mg (10 mL) into 100 mL or 250 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "10 mg/mL (in 100 mL) or 4 mg/mL (in 250 mL)[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Loading Infusion: 20–50 mg/min IV continuous infusion. Max Load: 17 mg/kg. Maintenance: 1–4 mg/min continuous infusion.[cite: 1]",
+          "available_stock_dosage_forms": "1000 mg / 10 mL Vial (100 mg/mL)",
+          "preparation_methods_and_preferred_solvents": "Dilute 1000 mg (10 mL) into 100 mL or 250 mL of D5W or NS.",
+          "administration_ready_concentration": "10 mg/mL (in 100 mL) or 4 mg/mL (in 250 mL)",
+          "calculated_dosing_and_administration_guide": "Loading Infusion: 20–50 mg/min IV continuous infusion. Max Load: 17 mg/kg. Maintenance: 1–4 mg/min continuous infusion.",
           "critical_safety_alerts": [
-            "Discontinuation Criteria: Stop loading infusion immediately if: (1) Arrythmia suppresses, (2) Hypotension ensues, (3) QRS widens by $>50\\%$, or (4) Max dose reached.[cite: 1]",
-            "Avoid in patients with a prolonged baseline QTc interval.[cite: 1]"
+            "Discontinuation Criteria: Stop loading infusion immediately if: (1) Arrythmia suppresses, (2) Hypotension ensues, (3) QRS widens by >50%, or (4) Max dose reached.",
+            "Avoid in patients with a prolonged baseline QTc interval."
           ]
         },
         {
           "name": "Diltiazem",
           "clinical_indications": [
-            "Rapid Ventricular Rate Control in AF / Flutter[cite: 1]"
+            "Rapid Ventricular Rate Control in AF / Flutter"
           ],
-          "available_stock_dosage_forms": "25 mg / 5 mL Vial (5 mg/mL)[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Direct Bolus: Administer undiluted. Continuous Infusion: Dilute 125 mg (25 mL) into 100 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "Bolus: 5 mg/mL; Infusion: 1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "First Bolus: 0.25 mg/kg actual body weight IV slow push over 2 minutes (typical dose 15–20 mg). Second Bolus: 0.35 mg/kg IV after 15 minutes if rate control is inadequate. Continuous Infusion: Initial rate of 5–15 mg/hr.[cite: 1]",
+          "available_stock_dosage_forms": "25 mg / 5 mL Vial (5 mg/mL)",
+          "preparation_methods_and_preferred_solvents": "Direct Bolus: Administer undiluted. Continuous Infusion: Dilute 125 mg (25 mL) into 100 mL of NS or D5W.",
+          "administration_ready_concentration": "Bolus: 5 mg/mL; Infusion: 1 mg/mL",
+          "calculated_dosing_and_administration_guide": "First Bolus: 0.25 mg/kg actual body weight IV slow push over 2 minutes (typical dose 15–20 mg). Second Bolus: 0.35 mg/kg IV after 15 minutes if rate control is inadequate. Continuous Infusion: Initial rate of 5–15 mg/hr.",
           "critical_safety_alerts": [
-            "Contraindicated in decompensated heart failure, severe LV dysfunction ($EF < 40\\%$), and Wolff-Parkinson-White (WPW) syndrome with pre-excited AF.[cite: 1]",
-            "Anticipate peripheral vasodilation and negative inotropic hypotension.[cite: 1]"
+            "Contraindicated in decompensated heart failure, severe LV dysfunction (EF < 40%), and Wolff-Parkinson-White (WPW) syndrome with pre-excited AF.",
+            "Anticipate peripheral vasodilation and negative inotropic hypotension."
           ]
         },
         {
           "name": "Metoprolol Tartrate",
           "clinical_indications": [
-            "Rate Control in AF / Hyperadrenergic SVT[cite: 1]"
+            "Rate Control in AF / Hyperadrenergic SVT"
           ],
-          "available_stock_dosage_forms": "5 mg / 5 mL Ampule[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted as a slow IV push.[cite: 1]",
-          "administration_ready_concentration": "1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Bolus Dose: 5 mg IV slow push over 2 minutes. Repeat Interval: Every 5 minutes as needed. Max Dose: 15 mg total (3 doses).[cite: 1]",
+          "available_stock_dosage_forms": "5 mg / 5 mL Ampule",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted as a slow IV push.",
+          "administration_ready_concentration": "1 mg/mL",
+          "calculated_dosing_and_administration_guide": "Bolus Dose: 5 mg IV slow push over 2 minutes. Repeat Interval: Every 5 minutes as needed. Max Dose: 15 mg total (3 doses).",
           "critical_safety_alerts": [
-            "Avoid in cardiogenic shock, active bronchospasm (severe asthma/COPD), advanced AV block, or decompensated heart failure.[cite: 1]",
-            "Monitor for abrupt bradycardia or drop in cardiac output.[cite: 1]"
+            "Avoid in cardiogenic shock, active bronchospasm (severe asthma/COPD), advanced AV block, or decompensated heart failure.",
+            "Monitor for abrupt bradycardia or drop in cardiac output."
           ]
         },
         {
           "name": "Ibutilide",
           "clinical_indications": [
-            "Acute Conversion of AF / Flutter[cite: 1]"
+            "Acute Conversion of AF / Flutter"
           ],
-          "available_stock_dosage_forms": "1 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "May administer undiluted, or dilute 1 mg (10 mL) into 50 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "0.016 mg/mL (diluted)[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Dosing ($\\ge 60\\text{ kg}$): 1 mg IV infused continuously over 10 minutes. Dosing ($< 60\\text{ kg}$): 0.01 mg/kg IV over 10 minutes. Repeat Interval: Repeat once after 10 minutes if arrhythmia persists.[cite: 1]",
+          "available_stock_dosage_forms": "1 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "May administer undiluted, or dilute 1 mg (10 mL) into 50 mL of NS or D5W.",
+          "administration_ready_concentration": "0.016 mg/mL (diluted)",
+          "calculated_dosing_and_administration_guide": "Dosing (>= 60 kg): 1 mg IV infused continuously over 10 minutes. Dosing (< 60 kg): 0.01 mg/kg IV over 10 minutes. Repeat Interval: Repeat once after 10 minutes if arrhythmia persists.",
           "critical_safety_alerts": [
-            "Proarrhythmia Risk: High risk of inducing Torsades de Pointes. Continuous ECG monitoring is mandatory during infusion and for at least 4 hours post-infusion.[cite: 1]",
-            "Correct $K^+$ and $Mg^{2+}$ levels prior to administration.[cite: 1]"
+            "Proarrhythmia Risk: High risk of inducing Torsades de Pointes. Continuous ECG monitoring is mandatory during infusion and for at least 4 hours post-infusion.",
+            "Correct K+ and Mg2+ levels prior to administration."
           ]
         }
       ]
@@ -196,61 +196,61 @@
         {
           "name": "Atropine Sulfate",
           "clinical_indications": [
-            "Symptomatic Bradycardia[cite: 1]",
-            "AV Block (Nodal)[cite: 1]"
+            "Symptomatic Bradycardia",
+            "AV Block (Nodal)"
           ],
-          "available_stock_dosage_forms": "1 mg / 10 mL Pre-filled syringe[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted as a rapid IV push.[cite: 1]",
-          "administration_ready_concentration": "0.1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Bolus Dose: 1 mg IV rapid push. Repeat Interval: Every 3–5 minutes as clinically indicated. Max Cumulative Dose: 3 mg total.[cite: 1]",
+          "available_stock_dosage_forms": "1 mg / 10 mL Pre-filled syringe",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted as a rapid IV push.",
+          "administration_ready_concentration": "0.1 mg/mL",
+          "calculated_dosing_and_administration_guide": "Bolus Dose: 1 mg IV rapid push. Repeat Interval: Every 3–5 minutes as clinically indicated. Max Cumulative Dose: 3 mg total.",
           "critical_safety_alerts": [
-            "Paradoxical Bradycardia: Doses $< 0.5\\text{ mg}$ or slow administration can cause central vagal stimulation, paradoxical heart rate slowing, or advanced AV block.[cite: 1]",
-            "Ineffective in type II second-degree or third-degree AV blocks with wide QRS complexes.[cite: 1]"
+            "Paradoxical Bradycardia: Doses < 0.5 mg or slow administration can cause central vagal stimulation, paradoxical heart rate slowing, or advanced AV block.",
+            "Ineffective in type II second-degree or third-degree AV blocks with wide QRS complexes."
           ]
         },
         {
           "name": "Dopamine Infusion",
           "clinical_indications": [
-            "Refractory Bradycardia[cite: 1]",
-            "Cardiogenic Shock[cite: 1]"
+            "Refractory Bradycardia",
+            "Cardiogenic Shock"
           ],
-          "available_stock_dosage_forms": "400 mg / 250 mL Premixed D5W bag[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Use premixed container; if compounding, add 400 mg (10 mL vial) into 250 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "1600 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Chronotropic / beta-adrenergic range of 2–10 mcg/kg/min. Titrate up in increments of 2–5 mcg/kg/min based on hemodynamics.[cite: 1]",
+          "available_stock_dosage_forms": "400 mg / 250 mL Premixed D5W bag",
+          "preparation_methods_and_preferred_solvents": "Use premixed container; if compounding, add 400 mg (10 mL vial) into 250 mL of D5W or NS.",
+          "administration_ready_concentration": "1600 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Chronotropic / beta-adrenergic range of 2–10 mcg/kg/min. Titrate up in increments of 2–5 mcg/kg/min based on hemodynamics.",
           "critical_safety_alerts": [
-            "Arrhythmogenic Potential: Highly tachyarrhythmogenic; can provoke ventricular ectopy and atrial fibrillation.[cite: 1]",
-            "Extravasation risk causes localized skin necrosis; phentolamine is the antidote. Central line access preferred.[cite: 1]"
+            "Arrhythmogenic Potential: Highly tachyarrhythmogenic; can provoke ventricular ectopy and atrial fibrillation.",
+            "Extravasation risk causes localized skin necrosis; phentolamine is the antidote. Central line access preferred."
           ]
         },
         {
           "name": "Epinephrine Infusion",
           "clinical_indications": [
-            "Refractory Bradycardia[cite: 1]",
-            "Severe Hypotension[cite: 1]"
+            "Refractory Bradycardia",
+            "Severe Hypotension"
           ],
-          "available_stock_dosage_forms": "1 mg / 1 mL Ampule (1:1,000)[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Withdraw 1 mg (1 mL) of stock and dilute into 250 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "4 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: 2–10 mcg/min non-weight-based continuous titration. Adjust by 1–2 mcg/min every 3–5 minutes to achieve targeted MAP/HR.[cite: 1]",
+          "available_stock_dosage_forms": "1 mg / 1 mL Ampule (1:1,000)",
+          "preparation_methods_and_preferred_solvents": "Withdraw 1 mg (1 mL) of stock and dilute into 250 mL of NS or D5W.",
+          "administration_ready_concentration": "4 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: 2–10 mcg/min non-weight-based continuous titration. Adjust by 1–2 mcg/min every 3–5 minutes to achieve targeted MAP/HR.",
           "critical_safety_alerts": [
-            "Extensively increases myocardial oxygen consumption ($MVO_2$); may induce localized subendocardial ischemia or tachyarrhythmias.[cite: 1]",
-            "Central line access strongly preferred; monitor peripheral site closely if used emergency-short term.[cite: 1]"
+            "Extensively increases myocardial oxygen consumption (MVO2); may induce localized subendocardial ischemia or tachyarrhythmias.",
+            "Central line access strongly preferred; monitor peripheral site closely if used emergency-short term."
           ]
         },
         {
           "name": "Isoproterenol",
           "clinical_indications": [
-            "Refractory Bradycardia[cite: 1]",
-            "Torsades with Bradycardia[cite: 1]"
+            "Refractory Bradycardia",
+            "Torsades with Bradycardia"
           ],
-          "available_stock_dosage_forms": "0.2 mg / 1 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 1 mg (5 vials) into 250 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "4 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 2 mcg/min. Titrate within a range of 2–10 mcg/min based on heart rate response.[cite: 1]",
+          "available_stock_dosage_forms": "0.2 mg / 1 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 1 mg (5 vials) into 250 mL of D5W or NS.",
+          "administration_ready_concentration": "4 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 2 mcg/min. Titrate within a range of 2–10 mcg/min based on heart rate response.",
           "critical_safety_alerts": [
-            "Profound Vasodilation: Pure beta-agonist effects ($\\beta_1 + \\beta_2$) can cause marked peripheral vasodilation and a drop in diastolic blood pressure.[cite: 1]",
-            "Contraindicated in ischemic heart disease due to the potential for severe tachycardia and ischemia.[cite: 1]"
+            "Profound Vasodilation: Pure beta-agonist effects (beta 1 + beta 2) can cause marked peripheral vasodilation and a drop in diastolic blood pressure.",
+            "Contraindicated in ischemic heart disease due to the potential for severe tachycardia and ischemia."
           ]
         }
       ]
@@ -262,97 +262,97 @@
         {
           "name": "Etomidate",
           "clinical_indications": [
-            "RSI Induction Agent[cite: 1]"
+            "RSI Induction Agent"
           ],
-          "available_stock_dosage_forms": "20 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.[cite: 1]",
-          "administration_ready_concentration": "2 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Induction Bolus: 0.3 mg/kg IV push over 30–60 seconds. Calculated average adult dose range is 20–30 mg.[cite: 1]",
+          "available_stock_dosage_forms": "20 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.",
+          "administration_ready_concentration": "2 mg/mL",
+          "calculated_dosing_and_administration_guide": "Induction Bolus: 0.3 mg/kg IV push over 30–60 seconds. Calculated average adult dose range is 20–30 mg.",
           "critical_safety_alerts": [
-            "Hemodynamically stable, neutral induction profile.[cite: 1]",
-            "Inhibits $11-\\beta$-hydroxylase, causing transient adrenal suppression; use with caution in severe septic shock states.[cite: 1]"
+            "Hemodynamically stable, neutral induction profile.",
+            "Inhibits 11-beta-hydroxylase, causing transient adrenal suppression; use with caution in severe septic shock states."
           ]
         },
         {
           "name": "Ketamine",
           "clinical_indications": [
-            "RSI Induction Agent[cite: 1]"
+            "RSI Induction Agent"
           ],
-          "available_stock_dosage_forms": "500 mg / 10 mL Vial (50 mg/mL)[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; can administer undiluted for RSI induction.[cite: 1]",
-          "administration_ready_concentration": "50 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Induction Bolus: 1.5–2.0 mg/kg IV push over 60 seconds. Infusion (Sedation): 0.5–2.0 mg/kg/hr.[cite: 1]",
+          "available_stock_dosage_forms": "500 mg / 10 mL Vial (50 mg/mL)",
+          "preparation_methods_and_preferred_solvents": "None required; can administer undiluted for RSI induction.",
+          "administration_ready_concentration": "50 mg/mL",
+          "calculated_dosing_and_administration_guide": "Induction Bolus: 1.5–2.0 mg/kg IV push over 60 seconds. Infusion (Sedation): 0.5–2.0 mg/kg/hr.",
           "critical_safety_alerts": [
-            "Sympathomimetic: Stimulates endogenous catecholamine release, raising blood pressure and heart rate. Ideal for shock states, but caution is warranted in severe ischemic coronary syndrome.[cite: 1]"
+            "Sympathomimetic: Stimulates endogenous catecholamine release, raising blood pressure and heart rate. Ideal for shock states, but caution is warranted in severe ischemic coronary syndrome."
           ]
         },
         {
           "name": "Propofol",
           "clinical_indications": [
-            "RSI Induction[cite: 1]",
-            "Post-Intubation Sedation[cite: 1]"
+            "RSI Induction",
+            "Post-Intubation Sedation"
           ],
-          "available_stock_dosage_forms": "1000 mg / 100 mL Vial (10 mg/mL) Lipid emulsion[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for direct infusion; administer undiluted via dedicated lines.[cite: 1]",
-          "administration_ready_concentration": "10 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Induction Bolus: 1.5–2.5 mg/kg IV push. Continuous Infusion: 5–50 mcg/kg/min; titrate by 5 mcg/kg/min every 5 minutes.[cite: 1]",
+          "available_stock_dosage_forms": "1000 mg / 100 mL Vial (10 mg/mL) Lipid emulsion",
+          "preparation_methods_and_preferred_solvents": "None required for direct infusion; administer undiluted via dedicated lines.",
+          "administration_ready_concentration": "10 mg/mL",
+          "calculated_dosing_and_administration_guide": "Induction Bolus: 1.5–2.5 mg/kg IV push. Continuous Infusion: 5–50 mcg/kg/min; titrate by 5 mcg/kg/min every 5 minutes.",
           "critical_safety_alerts": [
-            "Myocardial Depressant: Provokes peripheral venodilation and negative inotropic hypotension. Contraindicated in shock.[cite: 1]",
-            "PRIS: Monitor triglycerides and CK if infused $>48\\text{ hours}$ at high doses (Propofol Infusion Syndrome).[cite: 1]"
+            "Myocardial Depressant: Provokes peripheral venodilation and negative inotropic hypotension. Contraindicated in shock.",
+            "PRIS: Monitor triglycerides and CK if infused >48 hours at high doses (Propofol Infusion Syndrome)."
           ]
         },
         {
           "name": "Succinylcholine",
           "clinical_indications": [
-            "Depolarizing Paralytic[cite: 1]"
+            "Depolarizing Paralytic"
           ],
-          "available_stock_dosage_forms": "200 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.[cite: 1]",
-          "administration_ready_concentration": "20 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Paralytic Bolus: 1.5 mg/kg IV rapid push. Complete neuromuscular blockade is achieved within 45–60 seconds.[cite: 1]",
+          "available_stock_dosage_forms": "200 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.",
+          "administration_ready_concentration": "20 mg/mL",
+          "calculated_dosing_and_administration_guide": "Paralytic Bolus: 1.5 mg/kg IV rapid push. Complete neuromuscular blockade is achieved within 45–60 seconds.",
           "critical_safety_alerts": [
-            "Malignant Hyperthermia: Potential trigger.[cite: 1]",
-            "Hyperkalemia: Contraindicated in patients with severe burns, crush injuries, or subacute denervating neuromuscular disease due to the risk of hyperkalemic cardiac arrest.[cite: 1]"
+            "Malignant Hyperthermia: Potential trigger.",
+            "Hyperkalemia: Contraindicated in patients with severe burns, crush injuries, or subacute denervating neuromuscular disease due to the risk of hyperkalemic cardiac arrest."
           ]
         },
         {
           "name": "Rocuronium Bromide",
           "clinical_indications": [
-            "Non-depolarizing Paralytic[cite: 1]"
+            "Non-depolarizing Paralytic"
           ],
-          "available_stock_dosage_forms": "100 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.[cite: 1]",
-          "administration_ready_concentration": "10 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Paralytic Bolus: 1.0–1.2 mg/kg IV rapid push for emergency intubation sequencing. Prolonged duration of action (45–60 mins).[cite: 1]",
+          "available_stock_dosage_forms": "100 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted via rapid IV push.",
+          "administration_ready_concentration": "10 mg/mL",
+          "calculated_dosing_and_administration_guide": "Paralytic Bolus: 1.0–1.2 mg/kg IV rapid push for emergency intubation sequencing. Prolonged duration of action (45–60 mins).",
           "critical_safety_alerts": [
-            "Prolonged paralysis occurs in hepatic or renal impairment.[cite: 1]",
-            "Ensure continuous, deep sedation is initiated immediately following paralytic administration.[cite: 1]"
+            "Prolonged paralysis occurs in hepatic or renal impairment.",
+            "Ensure continuous, deep sedation is initiated immediately following paralytic administration."
           ]
         },
         {
           "name": "Naloxone",
           "clinical_indications": [
-            "Opioid Reversal[cite: 1]"
+            "Opioid Reversal"
           ],
-          "available_stock_dosage_forms": "0.4 mg / 1 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 0.4 mg into 9 mL of NS to allow for careful micro-dosing titration if patient is not in cardiac arrest.[cite: 1]",
-          "administration_ready_concentration": "0.4 mg/mL (undiluted) or 0.04 mg/mL (diluted)[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Apnea/Respiratory Depression: 0.04–0.4 mg IV/IO titrated slowly to restore adequate respiratory drive without triggering full withdrawal.[cite: 1]",
+          "available_stock_dosage_forms": "0.4 mg / 1 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 0.4 mg into 9 mL of NS to allow for careful micro-dosing titration if patient is not in cardiac arrest.",
+          "administration_ready_concentration": "0.4 mg/mL (undiluted) or 0.04 mg/mL (diluted)",
+          "calculated_dosing_and_administration_guide": "Apnea/Respiratory Depression: 0.04–0.4 mg IV/IO titrated slowly to restore adequate respiratory drive without triggering full withdrawal.",
           "critical_safety_alerts": [
-            "Acute Pulmonary Edema: Rapid, high-dose reversal can cause severe hyperadrenergic withdrawal, leading to acute non-cardiogenic pulmonary edema and severe agitation.[cite: 1]"
+            "Acute Pulmonary Edema: Rapid, high-dose reversal can cause severe hyperadrenergic withdrawal, leading to acute non-cardiogenic pulmonary edema and severe agitation."
           ]
         },
         {
           "name": "Flumazenil",
           "clinical_indications": [
-            "Benzodiazepine Reversal[cite: 1]"
+            "Benzodiazepine Reversal"
           ],
-          "available_stock_dosage_forms": "0.5 mg / 5 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required; administer undiluted over 15–30 seconds.[cite: 1]",
-          "administration_ready_concentration": "0.1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Initial Bolus: 0.2 mg IV over 15 seconds. Repeat Interval: 0.3 mg after 30 seconds, then 0.5 mg every 1 minute. Max Dose: 3 mg total.[cite: 1]",
+          "available_stock_dosage_forms": "0.5 mg / 5 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required; administer undiluted over 15–30 seconds.",
+          "administration_ready_concentration": "0.1 mg/mL",
+          "calculated_dosing_and_administration_guide": "Initial Bolus: 0.2 mg IV over 15 seconds. Repeat Interval: 0.3 mg after 30 seconds, then 0.5 mg every 1 minute. Max Dose: 3 mg total.",
           "critical_safety_alerts": [
-            "Seizure Risk: Can precipitate refractory, life-threatening seizures in patients with chronic benzodiazepine dependence or concurrent tricyclic antidepressant (TCA) overdose.[cite: 1]"
+            "Seizure Risk: Can precipitate refractory, life-threatening seizures in patients with chronic benzodiazepine dependence or concurrent tricyclic antidepressant (TCA) overdose."
           ]
         }
       ]
@@ -360,78 +360,78 @@
     {
       "section_number": 5,
       "section_name": "Shock States / Vasoactive Support",
-      "section_note": "All concentrations calculated below represent standard preparation methods. In clinical practice, high-concentration central line mixtures ('double-strength') are frequently utilized to prevent fluid overload.[cite: 1]",
+      "section_note": "All concentrations calculated below represent standard preparation methods. In clinical practice, high-concentration central line mixtures ('double-strength') are frequently utilized to prevent fluid overload.",
       "medications": [
         {
           "name": "Norepinephrine",
           "clinical_indications": [
-            "Distributive Shock[cite: 1]",
-            "Severe Cardiogenic Shock[cite: 1]"
+            "Distributive Shock",
+            "Severe Cardiogenic Shock"
           ],
-          "available_stock_dosage_forms": "4 mg / 4 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 4 mg (4 mL) into 250 mL of D5W or NS. D5W prevents oxidation of the drug.[cite: 1]",
-          "administration_ready_concentration": "16 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.05–0.1 mcg/kg/min or 2–5 mcg/min non-weight-based. Titrate dynamically to maintain a targeted $MAP \\ge 65\\text{ mmHg}$.[cite: 1]",
+          "available_stock_dosage_forms": "4 mg / 4 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 4 mg (4 mL) into 250 mL of D5W or NS. D5W prevents oxidation of the drug.",
+          "administration_ready_concentration": "16 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.05–0.1 mcg/kg/min or 2–5 mcg/min non-weight-based. Titrate dynamically to maintain a targeted MAP >= 65 mmHg.",
           "critical_safety_alerts": [
-            "Ischemic digital or mesenteric vasospasm can occur at high doses.[cite: 1]",
-            "Vesicant: Central line access is mandatory. If peripheral extravasation happens, infiltrate local tissue with 5–10 mg phentolamine.[cite: 1]"
+            "Ischemic digital or mesenteric vasospasm can occur at high doses.",
+            "Vesicant: Central line access is mandatory. If peripheral extravasation happens, infiltrate local tissue with 5–10 mg phentolamine."
           ]
         },
         {
           "name": "Dobutamine",
           "clinical_indications": [
-            "Decompensated HF[cite: 1]",
-            "Cardiogenic Shock[cite: 1]"
+            "Decompensated HF",
+            "Cardiogenic Shock"
           ],
-          "available_stock_dosage_forms": "250 mg / 20 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 250 mg (20 mL) into 250 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "1000 mcg/mL (1 mg/mL)[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Infuse at 2–20 mcg/kg/min. Titrate by 2.5 mcg/kg/min every 10 minutes based on cardiac index and tissue perfusion.[cite: 1]",
+          "available_stock_dosage_forms": "250 mg / 20 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 250 mg (20 mL) into 250 mL of D5W or NS.",
+          "administration_ready_concentration": "1000 mcg/mL (1 mg/mL)",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Infuse at 2–20 mcg/kg/min. Titrate by 2.5 mcg/kg/min every 10 minutes based on cardiac index and tissue perfusion.",
           "critical_safety_alerts": [
-            "Tachyarrhythmias: Can prompt significant sinus tachycardia, ventricular ectopy, or rapid atrial fibrillation.[cite: 1]",
-            "Vasodilation: Mild $\\beta_2$-mediated peripheral vasodilation may worsen hypotension if left ventricular filling pressures are inadequate.[cite: 1]"
+            "Tachyarrhythmias: Can prompt significant sinus tachycardia, ventricular ectopy, or rapid atrial fibrillation.",
+            "Vasodilation: Mild beta-2-mediated peripheral vasodilation may worsen hypotension if left ventricular filling pressures are inadequate."
           ]
         },
         {
           "name": "Milrinone",
           "clinical_indications": [
-            "Cardiogenic Shock with High PVR[cite: 1]"
+            "Cardiogenic Shock with High PVR"
           ],
-          "available_stock_dosage_forms": "20 mg / 20 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 20 mg (20 mL) into 100 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "166.7 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: 0.25–0.75 mcg/kg/min maintenance rate. Maintenance titration adjustments are made slowly over hours due to its long half-life.[cite: 1]",
+          "available_stock_dosage_forms": "20 mg / 20 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 20 mg (20 mL) into 100 mL of D5W or NS.",
+          "administration_ready_concentration": "166.7 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: 0.25–0.75 mcg/kg/min maintenance rate. Maintenance titration adjustments are made slowly over hours due to its long half-life.",
           "critical_safety_alerts": [
-            "Hypotension: Accumulates in renal impairment. Severe systemic vasodilation can cause hypotension; avoid loading boluses in acute cardiogenic shock.[cite: 1]",
-            "Requires parallel vasopressor support if MAP drops.[cite: 1]"
+            "Hypotension: Accumulates in renal impairment. Severe systemic vasodilation can cause hypotension; avoid loading boluses in acute cardiogenic shock.",
+            "Requires parallel vasopressor support if MAP drops."
           ]
         },
         {
           "name": "Vasopressin",
           "clinical_indications": [
-            "Distributive / Septic Shock[cite: 1]"
+            "Distributive / Septic Shock"
           ],
-          "available_stock_dosage_forms": "20 units / 1 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 20 units (1 mL) into 100 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "0.2 units/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Fixed, non-titrated adjunct rate of 0.03–0.04 units/min for septic shock vasoactive optimization.[cite: 1]",
+          "available_stock_dosage_forms": "20 units / 1 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 20 units (1 mL) into 100 mL of NS or D5W.",
+          "administration_ready_concentration": "0.2 units/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Fixed, non-titrated adjunct rate of 0.03–0.04 units/min for septic shock vasoactive optimization.",
           "critical_safety_alerts": [
-            "Do not titrate up rapidly like catecholamines; high doses ($>0.04\\text{ units/min}$) provoke severe myocardial ischemia, splanchnic hypoperfusion, and digital necrosis.[cite: 1]"
+            "Do not titrate up rapidly like catecholamines; high doses (>0.04 units/min) provoke severe myocardial ischemia, splanchnic hypoperfusion, and digital necrosis."
           ]
         },
         {
           "name": "Phenylephrine",
           "clinical_indications": [
-            "Neurogenic Shock[cite: 1]",
-            "Hyperdynamic Sepsis[cite: 1]"
+            "Neurogenic Shock",
+            "Hyperdynamic Sepsis"
           ],
-          "available_stock_dosage_forms": "10 mg / 1 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 10 mg (1 mL) into 250 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "40 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.5–2.0 mcg/kg/min or 40–100 mcg/min non-weight-based. Titrate to target MAP.[cite: 1]",
+          "available_stock_dosage_forms": "10 mg / 1 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 10 mg (1 mL) into 250 mL of NS or D5W.",
+          "administration_ready_concentration": "40 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.5–2.0 mcg/kg/min or 40–100 mcg/min non-weight-based. Titrate to target MAP.",
           "critical_safety_alerts": [
-            "Reflex Bradycardia: Pure alpha-1 agonist effects lead to a rise in systemic vascular resistance, which can trigger a vagally-mediated drop in heart rate.[cite: 1]",
-            "Reduces stroke volume in patients with pre-existing left ventricular dysfunction.[cite: 1]"
+            "Reflex Bradycardia: Pure alpha-1 agonist effects lead to a rise in systemic vascular resistance, which can trigger a vagally-mediated drop in heart rate.",
+            "Reduces stroke volume in patients with pre-existing left ventricular dysfunction."
           ]
         }
       ]
@@ -443,77 +443,77 @@
         {
           "name": "Nitroglycerin",
           "clinical_indications": [
-            "Acute Coronary Syndrome[cite: 1]",
-            "Acute Pulmonary Edema[cite: 1]"
+            "Acute Coronary Syndrome",
+            "Acute Pulmonary Edema"
           ],
-          "available_stock_dosage_forms": "50 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 50 mg (10 mL) into 250 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "200 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 5–10 mcg/min. Titrate up by 5–10 mcg/min every 3–5 minutes based on chest pain level and systemic blood pressure parameters.[cite: 1]",
+          "available_stock_dosage_forms": "50 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 50 mg (10 mL) into 250 mL of D5W or NS.",
+          "administration_ready_concentration": "200 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 5–10 mcg/min. Titrate up by 5–10 mcg/min every 3–5 minutes based on chest pain level and systemic blood pressure parameters.",
           "critical_safety_alerts": [
-            "PDE-5 Inhibitor Contradiction: Do not administer if sildenafil, vardenafil, or tadalafil was used within 24–48 hours due to the risk of profound, refractory hypotension.[cite: 1]",
-            "Adsorption: Must be prepared in non-PVC glass or polyolefin infusion containers.[cite: 1]"
+            "PDE-5 Inhibitor Contradiction: Do not administer if sildenafil, vardenafil, or tadalafil was used within 24–48 hours due to the risk of profound, refractory hypotension.",
+            "Adsorption: Must be prepared in non-PVC glass or polyolefin infusion containers."
           ]
         },
         {
           "name": "Labetalol HCl",
           "clinical_indications": [
-            "Aortic Dissection[cite: 1]",
-            "Hypertensive Emergency[cite: 1]"
+            "Aortic Dissection",
+            "Hypertensive Emergency"
           ],
-          "available_stock_dosage_forms": "100 mg / 20 mL Vial (5 mg/mL)[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Bolus: Administer undiluted. Continuous Infusion: Dilute 200 mg (40 mL) into 160 mL of D5W or NS.[cite: 1]",
-          "administration_ready_concentration": "Bolus: 5 mg/mL; Infusion: 1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Intermittent Bolus: 20 mg IV slow push over 2 minutes. Repeat with escalating doses (40 mg, then 80 mg) every 10 minutes as needed (Max 300 mg). Continuous Infusion: 1–8 mg/min titrated to target blood pressure.[cite: 1]",
+          "available_stock_dosage_forms": "100 mg / 20 mL Vial (5 mg/mL)",
+          "preparation_methods_and_preferred_solvents": "Bolus: Administer undiluted. Continuous Infusion: Dilute 200 mg (40 mL) into 160 mL of D5W or NS.",
+          "administration_ready_concentration": "Bolus: 5 mg/mL; Infusion: 1 mg/mL",
+          "calculated_dosing_and_administration_guide": "Intermittent Bolus: 20 mg IV slow push over 2 minutes. Repeat with escalating doses (40 mg, then 80 mg) every 10 minutes as needed (Max 300 mg). Continuous Infusion: 1–8 mg/min titrated to target blood pressure.",
           "critical_safety_alerts": [
-            "Dual alpha/beta blocker ($1:7\\text{ IV}$ ratio).[cite: 1]",
-            "Avoid in decompensated heart failure, severe reactive airway disease, advanced heart block, or bradycardia.[cite: 1]",
-            "Monitor for unexpected precipitous drops in cardiac output.[cite: 1]"
+            "Dual alpha/beta blocker (1:7 IV ratio).",
+            "Avoid in decompensated heart failure, severe reactive airway disease, advanced heart block, or bradycardia.",
+            "Monitor for unexpected precipitous drops in cardiac output."
           ]
         },
         {
           "name": "Nicardipine HCl",
           "clinical_indications": [
-            "Severe Hypertension[cite: 1]",
-            "Ischemic Stroke Emergency[cite: 1]"
+            "Severe Hypertension",
+            "Ischemic Stroke Emergency"
           ],
-          "available_stock_dosage_forms": "25 mg / 10 mL Ampule[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 25 mg (10 mL) into 240 mL of NS or D5W.[cite: 1]",
-          "administration_ready_concentration": "0.1 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 5 mg/hr. Titrate up by 2.5 mg/hr every 5–15 minutes to a maximum rate of 15 mg/hr until target BP is achieved.[cite: 1]",
+          "available_stock_dosage_forms": "25 mg / 10 mL Ampule",
+          "preparation_methods_and_preferred_solvents": "Dilute 25 mg (10 mL) into 240 mL of NS or D5W.",
+          "administration_ready_concentration": "0.1 mg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 5 mg/hr. Titrate up by 2.5 mg/hr every 5–15 minutes to a maximum rate of 15 mg/hr until target BP is achieved.",
           "critical_safety_alerts": [
-            "Phlebitis: Highly irritating to peripheral veins; rotate peripheral access sites every 12 hours or switch to central venous delivery if long-term support is required.[cite: 1]",
-            "Avoid in advanced aortic stenosis.[cite: 1]"
+            "Phlebitis: Highly irritating to peripheral veins; rotate peripheral access sites every 12 hours or switch to central venous delivery if long-term support is required.",
+            "Avoid in advanced aortic stenosis."
           ]
         },
         {
           "name": "Sodium Nitroprusside",
           "clinical_indications": [
-            "Acute Aortic Dissection[cite: 1]",
-            "Severe Afterload Reduction[cite: 1]"
+            "Acute Aortic Dissection",
+            "Severe Afterload Reduction"
           ],
-          "available_stock_dosage_forms": "50 mg / 2 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "Dilute 50 mg (2 mL) into 250 mL of D5W only.[cite: 1]",
-          "administration_ready_concentration": "200 mcg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.3 mcg/kg/min. Titrate by 0.5 mcg/kg/min every 5 minutes based on real-time intra-arterial line tracking (Max 10 mcg/kg/min).[cite: 1]",
+          "available_stock_dosage_forms": "50 mg / 2 mL Vial",
+          "preparation_methods_and_preferred_solvents": "Dilute 50 mg (2 mL) into 250 mL of D5W only.",
+          "administration_ready_concentration": "200 mcg/mL",
+          "calculated_dosing_and_administration_guide": "Continuous Infusion: Initial rate of 0.3 mcg/kg/min. Titrate by 0.5 mcg/kg/min every 5 minutes based on real-time intra-arterial line tracking (Max 10 mcg/kg/min).",
           "critical_safety_alerts": [
-            "Cyanide/Thiocyanate Toxicity: Metabolized to cyanide. Toxicity presents as unexplained metabolic acidosis, altered mental status, and lactate elevation; monitor closely if used $>48\\text{ hours}$ or in renal impairment.[cite: 1]",
-            "Light Sensitivity: Wrap the infusion bag in light-protective foil.[cite: 1]"
+            "Cyanide/Thiocyanate Toxicity: Metabolized to cyanide. Toxicity presents as unexplained metabolic acidosis, altered mental status, and lactate elevation; monitor closely if used >48 hours or in renal impairment.",
+            "Light Sensitivity: Wrap the infusion bag in light-protective foil."
           ]
         },
         {
           "name": "Esmolol HCl",
           "clinical_indications": [
-            "Aortic Dissection[cite: 1]",
-            "Supraventricular Tachycardia[cite: 1]"
+            "Aortic Dissection",
+            "Supraventricular Tachycardia"
           ],
-          "available_stock_dosage_forms": "100 mg / 10 mL Vial[cite: 1]",
-          "preparation_methods_and_preferred_solvents": "None required for the 10 mg/mL commercial vial formulation; can run directly as an infusion.[cite: 1]",
-          "administration_ready_concentration": "10 mg/mL[cite: 1]",
-          "calculated_dosing_and_administration_guide": "Loading Bolus: Optional 500 mcg/kg IV push over 1 minute. Continuous Infusion: 50–300 mcg/kg/min; titrate by 50 mcg/kg/min every 5 minutes based on target heart rate and blood pressure parameters.[cite: 1]",
+          "available_stock_dosage_forms": "100 mg / 10 mL Vial",
+          "preparation_methods_and_preferred_solvents": "None required for the 10 mg/mL commercial vial formulation; can run directly as an infusion.",
+          "administration_ready_concentration": "10 mg/mL",
+          "calculated_dosing_and_administration_guide": "Loading Bolus: Optional 500 mcg/kg IV push over 1 minute. Continuous Infusion: 50–300 mcg/kg/min; titrate by 50 mcg/kg/min every 5 minutes based on target heart rate and blood pressure parameters.",
           "critical_safety_alerts": [
-            "Ultra-Short Acting: Half-life is roughly 9 minutes. If severe hypotension or bradycardia occurs, turning off the infusion results in rapid clinical reversal within minutes.[cite: 1]",
-            "Highly accurate for testing beta-blocker tolerance.[cite: 1]"
+            "Ultra-Short Acting: Half-life is roughly 9 minutes. If severe hypotension or bradycardia occurs, turning off the infusion results in rapid clinical reversal within minutes.",
+            "Highly accurate for testing beta-blocker tolerance."
           ]
         }
       ]
@@ -522,8 +522,8 @@
       "section_number": 7,
       "section_name": "Critical Resource Cross-References",
       "cross_references": [
-        "For specific multi-center heart failure outcome registries and tracking protocols, see details referenced in the data framework under THESUS-HF II protocols.[cite: 1]",
-        "For automated clinical calculators managing weight-based dose optimization software systems, consult code frameworks labeled under the reference files \"watermarked_img_15605539625956534618.png\", \"watermarked_img_13413688051120390643.png\", and \"watermarked_img_8095023707865201722.png\". Ensure concentration variables map directly to the calculated outputs detailed in Sections 3, 5, and 6 above.[cite: 1]"
+        "For specific multi-center heart failure outcome registries and tracking protocols, see details referenced in the data framework under THESUS-HF II protocols.",
+        "For automated clinical calculators managing weight-based dose optimization software systems, consult code frameworks labeled under the reference files \"watermarked_img_15605539625956534618.png\", \"watermarked_img_13413688051120390643.png\", and \"watermarked_img_8095023707865201722.png\". Ensure concentration variables map directly to the calculated outputs detailed in Sections 3, 5, and 6 above."
       ]
     }
   ]
