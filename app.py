@@ -15,6 +15,9 @@ def load_data():
     except FileNotFoundError:
         st.error(f"Data file not found at {DATA_FILE}. Please ensure the JSON is saved correctly.")
         return None
+    except json.JSONDecodeError:
+        st.error("Error reading the JSON file. Please ensure it is formatted correctly.")
+        return None
 
 def main():
     data = load_data()
@@ -31,11 +34,24 @@ def main():
     st.sidebar.header("Navigation")
     
     # Create a dictionary of sections for easy lookup
-    sections_dict = {sec["section_name"]: sec for sec in data.get("sections", []) if "section_name" in sec}
+    # Safely get "sections", defaulting to an empty list if it doesn't exist
+    sections_list = data.get("sections", [])
+    
+    # Check if we actually found sections (prevents the KeyError)
+    if not sections_list:
+        st.error("⚠️ **Data Format Error:** The app could not find any 'sections' in your `drugs.json` file. Please ensure you copied the entirely new JSON structure provided previously, not just the drugs array.")
+        return
+
+    sections_dict = {sec["section_name"]: sec for sec in sections_list if "section_name" in sec}
     
     # Dropdown to select the clinical scenario
     selected_section_name = st.sidebar.selectbox("Select Clinical Scenario", list(sections_dict.keys()))
     
+    # Guard against empty selection during app initialization
+    if not selected_section_name:
+        st.info("Please select a clinical scenario from the sidebar.")
+        return
+        
     # --- MAIN CONTENT DISPLAY ---
     selected_section = sections_dict[selected_section_name]
     st.header(f"Scenario: {selected_section_name}")
@@ -55,7 +71,11 @@ def main():
                 with col1:
                     st.markdown("### Dosing & Administration")
                     st.success(f"**Calculated Dosing:**\n\n{med.get('calculated_dosing_and_administration_guide', 'N/A')}")
-                    st.markdown(f"**Indications:** {', '.join(med.get('clinical_indications', []))}")
+                    
+                    # Safely handle indications (might be missing in some entries)
+                    indications = med.get('clinical_indications', [])
+                    if indications:
+                        st.markdown(f"**Indications:** {', '.join(indications)}")
                     
                 with col2:
                     st.markdown("### Preparation & Concentrations")
@@ -66,8 +86,11 @@ def main():
                 # Safety Alerts section spanning the bottom
                 st.markdown("### ⚠️ Critical Safety Alerts")
                 alerts = med.get('critical_safety_alerts', [])
-                for alert in alerts:
-                    st.error(f"• {alert}")
+                if alerts:
+                    for alert in alerts:
+                        st.error(f"• {alert}")
+                else:
+                    st.write("No specific safety alerts listed.")
 
     # Display Cross-References if viewing the final section
     if "cross_references" in selected_section:
