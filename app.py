@@ -4,7 +4,7 @@ import os
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Clinical Assist AI", layout="wide", page_icon="🚨")
-DATA_FILE = os.path.join('data', 'drugs.json')
+DATA_FILE = 'drugs.json'
 
 @st.cache_data
 def load_data():
