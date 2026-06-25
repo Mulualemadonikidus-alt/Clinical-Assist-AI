@@ -1,0 +1,101 @@
+{
+  "drugs": [
+    {
+      "name": "Epinephrine (Arrest)",
+      "category": "Cardiac Arrest",
+      "type": "static",
+      "dose": 1.0,
+      "unit": "mg",
+      "max_dose": 1.0,
+      "prep": "1 mg/10 mL pre-filled syringe (1:10,000)",
+      "safety_alert": "Peripheral extravasation risk. Central line preferred post-ROSC."
+    },
+    {
+      "name": "Amiodarone (Arrest)",
+      "category": "Cardiac Arrest",
+      "type": "static",
+      "dose": 300.0,
+      "unit": "mg",
+      "max_dose": 300.0,
+      "prep": "Dilute 300 mg into 20-30 mL D5W",
+      "safety_alert": "Contains polysorbate 80; can induce hypotension."
+    },
+    {
+      "name": "Adenosine",
+      "category": "Tachyarrhythmias",
+      "type": "static",
+      "dose": 6.0,
+      "unit": "mg",
+      "max_dose": 12.0,
+      "prep": "6 mg/2 mL vial (Undiluted)",
+      "safety_alert": "Follow immediately with 20 mL NS flush. Warn patient of brief asystole."
+    },
+    {
+      "name": "Diltiazem",
+      "category": "Tachyarrhythmias",
+      "type": "weight_based",
+      "factor": 0.25,
+      "unit": "mg/kg",
+      "max_dose": 25.0,
+      "prep": "25 mg/5 mL vial",
+      "safety_alert": "Avoid in decompensated HF or EF < 40%."
+    },
+    {
+      "name": "Atropine",
+      "category": "Bradyarrhythmias",
+      "type": "static",
+      "dose": 1.0,
+      "unit": "mg",
+      "max_dose": 3.0,
+      "prep": "1 mg/10 mL pre-filled syringe",
+      "safety_alert": "Doses < 0.5 mg may cause paradoxical bradycardia."
+    },
+    {
+      "name": "Norepinephrine",
+      "category": "Shock",
+      "type": "infusion",
+      "range": "0.05-0.1",
+      "unit": "mcg/kg/min",
+      "prep": "4 mg in 250 mL D5W (16 mcg/mL)",
+      "safety_alert": "Vesicant. Central line mandatory."
+    },
+    {
+      "name": "Dobutamine",
+      "category": "Shock",
+      "type": "infusion",
+      "range": "2-20",
+      "unit": "mcg/kg/min",
+      "prep": "250 mg in 250 mL D5W (1 mg/mL)",
+      "safety_alert": "Monitor for tachyarrhythmias."
+    },
+    {
+      "name": "Nitroglycerin",
+      "category": "Acute Cardiovascular Emergencies",
+      "type": "infusion",
+      "range": "5-10",
+      "unit": "mcg/min",
+      "prep": "50 mg in 250 mL D5W (200 mcg/mL)",
+      "safety_alert": "Contraindicated if PDE-5 inhibitors used in last 48h."
+    },
+    {
+      "name": "Etomidate",
+      "category": "Respiratory Arrest",
+      "type": "weight_based",
+      "factor": 0.3,
+      "unit": "mg/kg",
+      "max_dose": 30.0,
+      "prep": "20 mg/10 mL vial",
+      "safety_alert": "Can cause transient adrenal suppression."
+    },
+    {
+      "name": "Succinylcholine",
+      "category": "Respiratory Arrest",
+      "type": "weight_based",
+      "factor": 1.5,
+      "unit": "mg/kg",
+      "max_dose": 150.0,
+      "prep": "200 mg/10 mL vial",
+      "safety_alert": "Contraindicated in hyperkalemia, burns, or crush injury."
+    }
+  ]
+}
